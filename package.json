@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrea-liliana/spiderverse.git"
+  },
+  "author": "andrea-liliana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrea-liliana/spiderverse/issues"
+  },
+  "homepage": "https://github.com/andrea-liliana/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
